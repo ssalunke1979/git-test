@@ -1,0 +1,4 @@
+https://usautoparts.atlassian.net/browse/CHG-13330 - PI-3119 - [CP-UPWA][Production][Banner] SUPER SEVERS
+https://usautoparts.atlassian.net/browse/CHG-13296 - PI-3097 - [WOS] Release 2.18.9 Sales Tax Rate Update Effective 10/3 for WOS and PFG and Pagination Fixes
+https://usautoparts.atlassian.net/browse/PSS-13045 - PI-3122 - Re-execute msv inventory process manually on CSCATBE01
+https://usautoparts.atlassian.net/browse/CHG-13340 - Manager Production Release 5.6.7
